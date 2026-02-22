@@ -2,12 +2,12 @@
   "users": [
     {
       "id": 1,
-      "name": "Juan",
+      "name": "Juan Builes",
       "deck": [5, 10, 15, 20, 25]
     },
     {
       "id": 2,
-      "name": "José",
+      "name": "Homero Simpson",
       "deck": [1, 6, 30, 40, 50]
     }
   ]
